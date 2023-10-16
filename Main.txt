@@ -1,0 +1,92 @@
+using System;
+using System.Net.Sockets;
+using System.Runtime.CompilerServices;
+
+namespace AzureChecker
+{
+	// Token: 0x02000003 RID: 3
+	internal class Antipublic
+	{
+		// Token: 0x06000004 RID: 4 RVA: 0x00033A10 File Offset: 0x00009E10
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public Antipublic()
+		{
+			throw new Exception("Runtime exception");
+		}
+
+		// Token: 0x06000005 RID: 5 RVA: 0x00033A10 File Offset: 0x00009E10
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public void Check_Connection()
+		{
+			throw new Exception("Runtime exception");
+		}
+
+		// Token: 0x06000006 RID: 6 RVA: 0x00033A10 File Offset: 0x00009E10
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public string Check(string \u0002\u0002\u000D\u0010\u000A\u000E)
+		{
+			throw new Exception("Runtime exception");
+		}
+
+		// Token: 0x06000007 RID: 7 RVA: 0x00033A10 File Offset: 0x00009E10
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public bool GetEncrypt(bool \u0004\u0004\u0001\u0008\u0007\u0007\u0009\u0009)
+		{
+			throw new Exception("Runtime exception");
+		}
+
+		// Token: 0x06000008 RID: 8 RVA: 0x00033A10 File Offset: 0x00009E10
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public string GetAPI()
+		{
+			throw new Exception("Runtime exception");
+		}
+
+		// Token: 0x06000009 RID: 9 RVA: 0x00033A10 File Offset: 0x00009E10
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		private byte[] \u0016\u0012\u0007\u000E\u0015\u0006(int \u000B\u000C\u0006\u000C\u0010\u000C, int \u0005\u0004\u0003\u0008\u0001\u0002\u0006\u0002\u0005\u0002, int \u0006\u0006\u0004\u0009\u0008\u0003\u000A\u000B)
+		{
+			throw new Exception("Runtime exception");
+		}
+
+		// Token: 0x0600000A RID: 10 RVA: 0x00033A10 File Offset: 0x00009E10
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		private string \u0003\u0005\u0005\u0005\u0004\u0003\u0003\u0002\u0001\u0006\u0001\u0002(string \u0003\u0006\u0006\u0007\u0003\u0007\u0008\u0006, string \u000D\u0008\u0005\u0005\u0005\u0008\u0008\u0003)
+		{
+			throw new Exception("Runtime exception");
+		}
+
+		// Token: 0x0600000B RID: 11 RVA: 0x00033A10 File Offset: 0x00009E10
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		private string \u000E\u0003\u0009\u0010\u0006\u0005\u000A\u0006(string \u0003\u0006\u0006\u0007\u0003\u0007\u0008\u0006, string \u000D\u0008\u0005\u0005\u0005\u0008\u0008\u0003)
+		{
+			throw new Exception("Runtime exception");
+		}
+
+		// Token: 0x0600000C RID: 12 RVA: 0x00033A10 File Offset: 0x00009E10
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		private byte[] \u0004\u0004\u0001\u0002\u0002\u0004\u0003\u0004\u0003\u0004\u0001\u0004(string \u0003\u0006\u0006\u0007\u0003\u0007\u0008\u0006)
+		{
+			throw new Exception("Runtime exception");
+		}
+
+		// Token: 0x0600000D RID: 13 RVA: 0x00033A10 File Offset: 0x00009E10
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public void Dispose()
+		{
+			throw new Exception("Runtime exception");
+		}
+
+		// Token: 0x04000006 RID: 6
+		private Socket \u0005\u000B\u0005\u0017\u0019\u0016;
+
+		// Token: 0x04000007 RID: 7
+		private object lock1;
+
+		// Token: 0x04000008 RID: 8
+		private string \u0010\u000E\u0009\u0008\u0003\u0002;
+
+		// Token: 0x04000009 RID: 9
+		private byte[] AES_IV;
+	}
+}

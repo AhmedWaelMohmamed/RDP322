@@ -1,0 +1,7 @@
+// AzureChecker.Antipublic
+// Token: 0x0600000A RID: 10 RVA: 0x00033A10 File Offset: 0x00009E10
+[MethodImpl(MethodImplOptions.NoInlining)]
+private string \u0003\u0005\u0005\u0005\u0004\u0003\u0003\u0002\u0001\u0006\u0001\u0002(string \u0003\u0006\u0006\u0007\u0003\u0007\u0008\u0006, string \u000D\u0008\u0005\u0005\u0005\u0008\u0008\u0003)
+{
+	throw new Exception("Runtime exception");
+}
